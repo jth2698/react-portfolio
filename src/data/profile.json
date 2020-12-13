@@ -1,6 +1,6 @@
 {
     "profile": {
-        "picture": "/assets/easy-tiger-jacket-crop.jpg",
+        "picture": "./assets/easy-tiger-jacket-crop.jpg",
         "alt": "James putting on suit jacket"
     },
     "resume": {
