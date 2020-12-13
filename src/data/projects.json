@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Weather Dashboard",
+        "deployed": "https://jth2698.github.io/weather-dashboard/",
+        "image": "/assets/weather-dashboard.jpg",
+        "alt": "Weather Dashboard screenshot",
+        "description": "A simple weather app with a responsive background approximating the user's current conditions, current weather conditions, and a 5 day forecast.",
+        "github": "https://github.com/jth2698/weather-dashboard"
+    },
+    {
+        "title": "Cheap Cheap",
+        "deployed": "https://jth2698.github.io/bootcamp-project-1/",
+        "image": "/assets/cheap-cheap.jpg",
+        "alt": "Cheap Cheap screenshot",
+        "description": " A simple local electronics product finder built with a team using Javascript ES6 and leveraging the Google Maps and the Best Buy APIs.",
+        "github": "https://github.com/jth2698/bootcamp-project-1"
+    },
+    {
+        "title": "Docket Master",
+        "deployed": "https: //pure-atoll-36836.herokuapp.com/",
+        "image": "/assets/docket-master.jpg",
+        "alt": "Docket Master screenshot",
+        "description": "A full-stack web-deployed application. This app was built with a team using MySQL and Sequelize and provides users with a fully-functioning court docketing system.",
+        "github": "https://github.com/jth2698/Docket_Master"
+    }
+]
