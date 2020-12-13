@@ -22,7 +22,7 @@ function Profile(props) {
                                 alt={props.resumeAlt} className="img-thumbnail" />
                         </a>
                     </div>
-                    <div>
+                    <div className="pt-3">
                         <ul className="social-list list-inline ml-auto">
                             <li className="list-inline-item"><a className="text-black"
                                 href={props.twitter} target="_blank" rel="noreferrer"><i

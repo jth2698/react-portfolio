@@ -2,8 +2,9 @@ import Navbar from "./components/Navbar";
 import Profile from "./components/Profile";
 import profileDetails from "./data/profile.json";
 import Overview from "./components/Overview";
+import overview from "./data/overview.json";
 import ProjectHeader from "./components/ProjectHeader";
-import ProjectList from "./components/Projects/ProjectList";
+import ProjectList from "./components/ProjectList";
 import projects from "./data/projects.json";
 
 function App() {
@@ -21,7 +22,10 @@ function App() {
         github={profileDetails.social.github}
         email={profileDetails.email.mailto}
       />
-      <Overview />
+      <Overview
+        title={overview.title}
+        text={overview.text}
+      />
       <ProjectHeader />
       <ProjectList
         projects={projects}

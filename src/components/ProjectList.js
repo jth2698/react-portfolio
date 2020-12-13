@@ -3,7 +3,7 @@ import ProjectCard from "./ProjectCard";
 
 function ProjectList(props) {
     return (
-        <div className="container pt-5">
+        <div className="container">
             <div className="d-flex justify-content-around flex-wrap">
                 {props.projects.map((project, index) => {
                     return (
@@ -15,7 +15,7 @@ function ProjectList(props) {
                                 image={project.image}
                                 alt={project.alt}
                                 description={project.description}
-                                github={project.description}
+                                github={project.github}
                             />
                         </div>
                     )
