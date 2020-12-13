@@ -4,8 +4,8 @@
         "alt": "James putting on suit jacket"
     },
     "resume": {
-        "link": "/assets/resume.pdf",
-        "screenshot": "/assets/resume-screenshot.jpg",
+        "link": "./assets/resume.pdf",
+        "screenshot": "./assets/resume-screenshot.jpg",
         "alt": "James' resume. Click here."
     },
     "social": {
